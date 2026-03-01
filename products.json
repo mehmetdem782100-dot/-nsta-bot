@@ -1,0 +1,5 @@
+[
+  {"code":"P001","title":"Ürün A","description":"Hafif, güçlü.","price":999,"stock":10},
+  {"code":"P002","title":"Ürün B","description":"Premium seçenek.","price":1499,"stock":5},
+  {"code":"P003","title":"Aksesuar C","description":"Uygun fiyatlı aksesuar.","price":199,"stock":50}
+]
